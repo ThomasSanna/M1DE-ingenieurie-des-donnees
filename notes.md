@@ -9,3 +9,4 @@ P(A,B,C) =  P(A|B) * P(B|C) * P(C)
 Si B est indépendant de C, on a:
 P(A,B,C) =  P(A|B) * P(B) * P(C)
 
+Voir entropie

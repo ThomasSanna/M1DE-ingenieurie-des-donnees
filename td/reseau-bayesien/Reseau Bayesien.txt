@@ -1,7 +1,7 @@
-Nom du reseau : Fumer
+Nom du reseau : Fumer (Exo 4)
 Noeuds  : | F : Fumeur | V : Video | C : Capteur | A : Alarme |
 # Format : Node | Parents | Probabilities
 F | | 0.5 0.5
-V | F | 0.9 0.1 0.02 0.98 
+V | F | 0.9 0.1 0.02 0.98
 C | F | 0.97 0.03 0.02 0.98
 A | V C | 0.99 0.01 0.5 0.5 0.5 0.5 0.01 0.99
